@@ -1,0 +1,63 @@
+{
+ "note": "外协包 F 造的中性占位；uncal 路径不使用其数值，仅满足 resolve_cp 读取",
+ "support": [
+  0.5,
+  2.0
+ ],
+ "per_cfg": {
+  "1.0": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  },
+  "1.5": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  },
+  "2.0": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  },
+  "2.5": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  },
+  "3.0": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  },
+  "4.0": {
+   "load_affine": {
+    "a": 1.0,
+    "b": 0.0
+   },
+   "load_affine_per_family": {},
+   "vset_bias_const": 0.0,
+   "vset_bias_perfam": {}
+  }
+ }
+}

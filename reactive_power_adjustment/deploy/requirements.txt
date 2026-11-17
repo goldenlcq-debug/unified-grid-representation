@@ -1,0 +1,16 @@
+# 电网大模型 · 编码器 + 调整器 内网部署依赖（Linux / CPU）
+# 说明：**本包已随附全部 wheel（wheels/ 目录，Linux x86_64 / Python 3.8 / CPU）**，
+#       内网直接执行 bash install.sh 即可，无需联网。
+#       手动安装等价命令：pip install --no-index --find-links=wheels numpy scipy torch torch-geometric
+#
+# Python 版本：3.8 ~ 3.11（本机验证环境为 3.8）
+#
+# --- 核心（必需）---
+numpy>=1.20,<2.0
+torch>=1.13,<2.5              # CPU 版即可：pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch-geometric>=2.3          # 纯 Python 包，不需要编译扩展
+scipy>=1.7                    # 图位置编码（拉普拉斯特征向量）用
+
+# --- 说明：以下为 torch-geometric 的可选加速扩展，本部署不需要 ---
+# torch-scatter / torch-sparse / torch-cluster：仅在使用稀疏算子加速时需要，
+# 本包用到的算子（消息传递、池化）在 torch-geometric 2.3+ 下由纯 PyTorch 实现覆盖。

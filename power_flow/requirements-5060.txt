@@ -1,0 +1,16 @@
+# 潮流线优化包 · 训练机(RTX 5060 8GB)环境依赖
+#
+# !! 关键:RTX 5060 是 Blackwell 架构(sm_120),torch 2.6 及更早的 CUDA 轮子
+# !! 没有这个算力的内核,会报 "no kernel image is available" 或静默回退 CPU。
+# !! 必须 torch >= 2.7 + CUDA 12.8 轮子;而 torch >= 2.5 不再支持 Python 3.8,
+# !! 所以训练机请用 Python 3.10 或 3.11(本包代码按 3.8 语法写成,3.10+ 可直接跑)。
+#
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+#
+# 原项目仓库的验证环境是 Python 3.8.20 / torch 2.4.1+cu121 / torch_geometric 2.6.1 /
+# numpy 1.24.4 / scipy 1.8.1(RTX 2060)。本包内全部历史数字都出自该环境。
+torch>=2.7                  # cu128 轮子,见上
+torch_geometric>=2.6        # 纯 Python 安装;禁装 torch-scatter/torch-sparse/torch-cluster/pyg-lib(D17)
+numpy>=1.24,<2.0            # 先钉 1.x 跑通基线复现;numpy 2.x 未在本项目验证过
+scipy>=1.10                 # LaPE 拉普拉斯特征分解
+pytest>=7.0

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "description": "兼容现有项目范围的显式无功控制策略；仅授权当前 LF.L2 并联设备的 Mark=0/1，不授权发电机电压、变压器分接头或非并联设备。",
+  "ranges": [
+    {"prefix": "220kV并联电容电抗器", "start": 1, "end": 193, "allowed_targets": [0, 1]},
+    {"prefix": "500kV并联电容电抗器", "start": 1, "end": 20, "allowed_targets": [0, 1]},
+    {"prefix": "63kV并联电容电抗器", "start": 1, "end": 58, "allowed_targets": [0, 1]},
+    {"prefix": "并联电抗器", "start": 1, "end": 2, "allowed_targets": [0, 1]}
+  ]
+}

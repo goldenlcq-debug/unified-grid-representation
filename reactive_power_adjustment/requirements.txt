@@ -1,0 +1,17 @@
+# grid-foundation 依赖(方案 10.4)
+# 目标环境:Python 3.10+;本机现为 3.8.20(P0 可用,P1 训练前升级)
+#
+# torch:P0 用 CPU 版即可;P1 训练需 CUDA 版,安装命令(2060/4090):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+# 禁止安装 torch-scatter/torch-sparse/torch-cluster/pyg-lib(D17)
+torch>=2.1
+torch_geometric>=2.4        # 纯 Python 安装(免 C++ 扩展)
+
+numpy>=1.24
+scipy>=1.10                 # LaPE 特征分解(离线)
+pandas>=2.0
+pyarrow>=12.0               # Parquet 元数据索引
+PyYAML>=6.0                # yaml 配置(本机已装,离线可用;配置加载器优先用它)
+# omegaconf>=2.3           # 可选替代;本机离线无法安装,暂用 PyYAML
+tensorboard>=2.13           # 离线实验跟踪(数据安全 7.6)
+pytest>=7.0

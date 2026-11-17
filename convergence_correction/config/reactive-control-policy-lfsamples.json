@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "description": "lfsamples专用策略：授权2000节点样本中的151个SH并联设备Mark=0/1。",
+  "ranges": [
+    {"prefix": "SH", "start": 0, "end": 150, "allowed_targets": [0, 1]}
+  ]
+}

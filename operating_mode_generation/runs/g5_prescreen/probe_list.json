@@ -1,0 +1,2956 @@
+{
+ "scorer": "main_lr_0(冻结折外分数 runs/g5_prescreen/oof_scores.npz)",
+ "arm": "s1",
+ "layer": "val8",
+ "stage1_top2": [
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1005,
+   "sid": "synth150_s2000_00000",
+   "rank": 1,
+   "score": 0.9998
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00000",
+   "rank": 2,
+   "score": 0.6568
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1001,
+   "sid": "synth150_s2000_00001",
+   "rank": 1,
+   "score": 0.8617
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00001",
+   "rank": 2,
+   "score": 0.7392
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00003",
+   "rank": 1,
+   "score": 0.8153
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00005",
+   "rank": 1,
+   "score": 0.9987
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00008",
+   "rank": 1,
+   "score": 0.9821
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00013",
+   "rank": 1,
+   "score": 0.9558
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00013",
+   "rank": 2,
+   "score": 0.9361
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1005,
+   "sid": "synth150_s2000_00015",
+   "rank": 1,
+   "score": 0.958
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00015",
+   "rank": 2,
+   "score": 0.9423
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00019",
+   "rank": 1,
+   "score": 0.9647
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1004,
+   "sid": "synth150_s2000_00025",
+   "rank": 1,
+   "score": 0.9406
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1005,
+   "sid": "synth150_s2000_00025",
+   "rank": 2,
+   "score": 0.8918
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00032",
+   "rank": 1,
+   "score": 0.8359
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1001,
+   "sid": "synth150_s2000_00032",
+   "rank": 2,
+   "score": 0.2321
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00037",
+   "rank": 1,
+   "score": 0.9853
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00037",
+   "rank": 2,
+   "score": 0.9336
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1002,
+   "sid": "synth150_s2000_00038",
+   "rank": 1,
+   "score": 0.9568
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00038",
+   "rank": 2,
+   "score": 0.9561
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00041",
+   "rank": 1,
+   "score": 0.9886
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00047",
+   "rank": 1,
+   "score": 0.9685
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1004,
+   "sid": "synth150_s2000_00051",
+   "rank": 2,
+   "score": 0.9621
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1002,
+   "sid": "synth150_s2000_00053",
+   "rank": 1,
+   "score": 0.9903
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00055",
+   "rank": 1,
+   "score": 0.9972
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00055",
+   "rank": 2,
+   "score": 0.9564
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1005,
+   "sid": "synth150_s2000_00056",
+   "rank": 1,
+   "score": 0.99
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00009",
+   "rank": 1,
+   "score": 0.9976
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00009",
+   "rank": 2,
+   "score": 0.9772
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00013",
+   "rank": 1,
+   "score": 0.9856
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00013",
+   "rank": 2,
+   "score": 0.9577
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00016",
+   "rank": 1,
+   "score": 0.9908
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00016",
+   "rank": 2,
+   "score": 0.9695
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00017",
+   "rank": 1,
+   "score": 0.9964
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00017",
+   "rank": 2,
+   "score": 0.9954
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00020",
+   "rank": 2,
+   "score": 0.997
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00021",
+   "rank": 2,
+   "score": 0.9966
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00025",
+   "rank": 1,
+   "score": 0.9992
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00025",
+   "rank": 2,
+   "score": 0.9987
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00030",
+   "rank": 1,
+   "score": 0.9856
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00030",
+   "rank": 2,
+   "score": 0.9855
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00031",
+   "rank": 1,
+   "score": 0.9952
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00034",
+   "rank": 1,
+   "score": 0.9662
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00034",
+   "rank": 2,
+   "score": 0.9507
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00035",
+   "rank": 1,
+   "score": 0.99
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00035",
+   "rank": 2,
+   "score": 0.9892
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00037",
+   "rank": 1,
+   "score": 0.9844
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00037",
+   "rank": 2,
+   "score": 0.9637
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00041",
+   "rank": 1,
+   "score": 0.9957
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00042",
+   "rank": 1,
+   "score": 0.9932
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00042",
+   "rank": 2,
+   "score": 0.9888
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00043",
+   "rank": 1,
+   "score": 0.9964
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00043",
+   "rank": 2,
+   "score": 0.9903
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00053",
+   "rank": 1,
+   "score": 0.9993
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00062",
+   "rank": 1,
+   "score": 0.9985
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00062",
+   "rank": 2,
+   "score": 0.9983
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00066",
+   "rank": 1,
+   "score": 0.9894
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00066",
+   "rank": 2,
+   "score": 0.9482
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00077",
+   "rank": 1,
+   "score": 0.9918
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00077",
+   "rank": 2,
+   "score": 0.9876
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00039",
+   "rank": 2,
+   "score": 0.9672
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00044",
+   "rank": 1,
+   "score": 0.9845
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00044",
+   "rank": 2,
+   "score": 0.9573
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00045",
+   "rank": 1,
+   "score": 0.9139
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00045",
+   "rank": 2,
+   "score": 0.9007
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00048",
+   "rank": 2,
+   "score": 0.9599
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00058",
+   "rank": 1,
+   "score": 0.9898
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00058",
+   "rank": 2,
+   "score": 0.9426
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00066",
+   "rank": 1,
+   "score": 0.9976
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00066",
+   "rank": 2,
+   "score": 0.9781
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00073",
+   "rank": 1,
+   "score": 0.9846
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00073",
+   "rank": 2,
+   "score": 0.976
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00074",
+   "rank": 2,
+   "score": 0.9014
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00086",
+   "rank": 2,
+   "score": 0.9293
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00089",
+   "rank": 1,
+   "score": 0.9678
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00089",
+   "rank": 2,
+   "score": 0.8875
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00092",
+   "rank": 1,
+   "score": 0.9829
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00092",
+   "rank": 2,
+   "score": 0.933
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00094",
+   "rank": 1,
+   "score": 0.9073
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00094",
+   "rank": 2,
+   "score": 0.8734
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00095",
+   "rank": 1,
+   "score": 0.9374
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00103",
+   "rank": 1,
+   "score": 0.9701
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00103",
+   "rank": 2,
+   "score": 0.8503
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00106",
+   "rank": 1,
+   "score": 0.9442
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1001,
+   "sid": "synth180_s2001_00108",
+   "rank": 1,
+   "score": 0.9419
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00109",
+   "rank": 1,
+   "score": 0.9704
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00109",
+   "rank": 2,
+   "score": 0.889
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00111",
+   "rank": 1,
+   "score": 0.8925
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00111",
+   "rank": 2,
+   "score": 0.8908
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00115",
+   "rank": 2,
+   "score": 0.9138
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00000",
+   "rank": 1,
+   "score": 0.679
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00039",
+   "rank": 1,
+   "score": 0.8041
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1002,
+   "sid": "synth180_s2006_00041",
+   "rank": 2,
+   "score": 0.148
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00043",
+   "rank": 1,
+   "score": 0.6066
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1001,
+   "sid": "synth180_s2006_00079",
+   "rank": 1,
+   "score": 0.6939
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00079",
+   "rank": 2,
+   "score": 0.6667
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00090",
+   "rank": 1,
+   "score": 0.8883
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00090",
+   "rank": 2,
+   "score": 0.6439
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1004,
+   "sid": "synth180_s2006_00093",
+   "rank": 1,
+   "score": 0.5079
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00093",
+   "rank": 2,
+   "score": 0.3691
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00097",
+   "rank": 2,
+   "score": 0.4732
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00106",
+   "rank": 1,
+   "score": 0.4959
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00106",
+   "rank": 2,
+   "score": 0.4613
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1002,
+   "sid": "synth180_s2006_00109",
+   "rank": 2,
+   "score": 0.5329
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00117",
+   "rank": 2,
+   "score": 0.4444
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1003,
+   "sid": "synth180_s2006_00124",
+   "rank": 2,
+   "score": 0.6319
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00001",
+   "rank": 1,
+   "score": 0.9789
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00001",
+   "rank": 2,
+   "score": 0.9715
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00004",
+   "rank": 2,
+   "score": 0.9347
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00006",
+   "rank": 2,
+   "score": 0.9262
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00008",
+   "rank": 2,
+   "score": 0.9427
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1001,
+   "sid": "synth210_s2002_00010",
+   "rank": 1,
+   "score": 0.8343
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00010",
+   "rank": 2,
+   "score": 0.6367
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00020",
+   "rank": 1,
+   "score": 0.9673
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00029",
+   "rank": 2,
+   "score": 0.6932
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00031",
+   "rank": 1,
+   "score": 0.9564
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00033",
+   "rank": 1,
+   "score": 0.9756
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00033",
+   "rank": 2,
+   "score": 0.8939
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00038",
+   "rank": 2,
+   "score": 0.9458
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00053",
+   "rank": 1,
+   "score": 0.9577
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1006,
+   "sid": "synth210_s2002_00054",
+   "rank": 1,
+   "score": 0.9754
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1002,
+   "sid": "synth210_s2002_00054",
+   "rank": 2,
+   "score": 0.9301
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00057",
+   "rank": 1,
+   "score": 0.9883
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00057",
+   "rank": 2,
+   "score": 0.973
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1001,
+   "sid": "synth210_s2002_00064",
+   "rank": 1,
+   "score": 0.9443
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00064",
+   "rank": 2,
+   "score": 0.9357
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00070",
+   "rank": 1,
+   "score": 0.9954
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00071",
+   "rank": 1,
+   "score": 0.9214
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00001",
+   "rank": 1,
+   "score": 0.9941
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00001",
+   "rank": 2,
+   "score": 0.9885
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00002",
+   "rank": 1,
+   "score": 0.9071
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00002",
+   "rank": 2,
+   "score": 0.8739
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1001,
+   "sid": "synth210_s2007_00003",
+   "rank": 1,
+   "score": 0.9773
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00003",
+   "rank": 2,
+   "score": 0.9716
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00005",
+   "rank": 1,
+   "score": 0.8642
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00007",
+   "rank": 1,
+   "score": 0.9965
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00013",
+   "rank": 1,
+   "score": 0.9985
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1006,
+   "sid": "synth210_s2007_00013",
+   "rank": 2,
+   "score": 0.9975
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00014",
+   "rank": 1,
+   "score": 0.9645
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00014",
+   "rank": 2,
+   "score": 0.769
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00015",
+   "rank": 1,
+   "score": 0.9731
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1006,
+   "sid": "synth210_s2007_00015",
+   "rank": 2,
+   "score": 0.9465
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00017",
+   "rank": 1,
+   "score": 0.9934
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00017",
+   "rank": 2,
+   "score": 0.9876
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00018",
+   "rank": 1,
+   "score": 0.9695
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00024",
+   "rank": 1,
+   "score": 0.9799
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1001,
+   "sid": "synth210_s2007_00024",
+   "rank": 2,
+   "score": 0.9599
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00027",
+   "rank": 2,
+   "score": 0.9598
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00030",
+   "rank": 1,
+   "score": 0.9947
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00030",
+   "rank": 2,
+   "score": 0.951
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00038",
+   "rank": 1,
+   "score": 0.9846
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00038",
+   "rank": 2,
+   "score": 0.8642
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00042",
+   "rank": 1,
+   "score": 0.9524
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00043",
+   "rank": 1,
+   "score": 0.9844
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00043",
+   "rank": 2,
+   "score": 0.9837
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00048",
+   "rank": 2,
+   "score": 0.9661
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00052",
+   "rank": 1,
+   "score": 0.9901
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1001,
+   "sid": "synth210_s2007_00052",
+   "rank": 2,
+   "score": 0.9429
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00053",
+   "rank": 1,
+   "score": 0.9726
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1001,
+   "sid": "synth210_s2007_00053",
+   "rank": 2,
+   "score": 0.9499
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00056",
+   "rank": 1,
+   "score": 0.98
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00056",
+   "rank": 2,
+   "score": 0.9623
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00003",
+   "rank": 1,
+   "score": 0.9663
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00003",
+   "rank": 2,
+   "score": 0.9651
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00026",
+   "rank": 2,
+   "score": 0.9402
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1001,
+   "sid": "synth240_s2003_00029",
+   "rank": 1,
+   "score": 0.9315
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00029",
+   "rank": 2,
+   "score": 0.8954
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00032",
+   "rank": 1,
+   "score": 0.9924
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00032",
+   "rank": 2,
+   "score": 0.9323
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00035",
+   "rank": 1,
+   "score": 0.7658
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00035",
+   "rank": 2,
+   "score": 0.7596
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00048",
+   "rank": 1,
+   "score": 0.9709
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1001,
+   "sid": "synth240_s2003_00050",
+   "rank": 1,
+   "score": 0.9478
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00050",
+   "rank": 2,
+   "score": 0.9376
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1001,
+   "sid": "synth240_s2003_00059",
+   "rank": 1,
+   "score": 0.9709
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00059",
+   "rank": 2,
+   "score": 0.8486
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00073",
+   "rank": 1,
+   "score": 0.9693
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00073",
+   "rank": 2,
+   "score": 0.9591
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00075",
+   "rank": 1,
+   "score": 0.9891
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00086",
+   "rank": 1,
+   "score": 0.9855
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00090",
+   "rank": 1,
+   "score": 0.9634
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00090",
+   "rank": 2,
+   "score": 0.9586
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00092",
+   "rank": 1,
+   "score": 0.9575
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00092",
+   "rank": 2,
+   "score": 0.9116
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00094",
+   "rank": 1,
+   "score": 0.9398
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1001,
+   "sid": "synth240_s2003_00094",
+   "rank": 2,
+   "score": 0.9308
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00096",
+   "rank": 1,
+   "score": 0.9221
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00096",
+   "rank": 2,
+   "score": 0.9097
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00097",
+   "rank": 2,
+   "score": 0.9237
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00028",
+   "rank": 2,
+   "score": 0.706
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00032",
+   "rank": 2,
+   "score": 0.7004
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1002,
+   "sid": "synth270_s2004_00033",
+   "rank": 2,
+   "score": 0.671
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00044",
+   "rank": 1,
+   "score": 0.8628
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1002,
+   "sid": "synth270_s2004_00044",
+   "rank": 2,
+   "score": 0.7081
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00046",
+   "rank": 2,
+   "score": 0.6042
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1003,
+   "sid": "synth270_s2004_00068",
+   "rank": 2,
+   "score": 0.5319
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00069",
+   "rank": 1,
+   "score": 0.8354
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1003,
+   "sid": "synth270_s2004_00069",
+   "rank": 2,
+   "score": 0.8048
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00076",
+   "rank": 1,
+   "score": 0.6945
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1001,
+   "sid": "synth270_s2004_00089",
+   "rank": 1,
+   "score": 0.8429
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00089",
+   "rank": 2,
+   "score": 0.7444
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00102",
+   "rank": 2,
+   "score": 0.7217
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00105",
+   "rank": 1,
+   "score": 0.7418
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00105",
+   "rank": 2,
+   "score": 0.5494
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00109",
+   "rank": 2,
+   "score": 0.6841
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00118",
+   "rank": 1,
+   "score": 0.8919
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00118",
+   "rank": 2,
+   "score": 0.8162
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1001,
+   "sid": "synth270_s2004_00119",
+   "rank": 1,
+   "score": 0.8781
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1005,
+   "sid": "synth270_s2004_00121",
+   "rank": 1,
+   "score": 0.867
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1003,
+   "sid": "synth270_s2004_00121",
+   "rank": 2,
+   "score": 0.6913
+  }
+ ],
+ "stage2_top3to4": [
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00000",
+   "rank": 3,
+   "score": 0.6156
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1004,
+   "sid": "synth150_s2000_00000",
+   "rank": 4,
+   "score": 0.4896
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1002,
+   "sid": "synth150_s2000_00001",
+   "rank": 4,
+   "score": 0.4351
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00003",
+   "rank": 3,
+   "score": 0.6428
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00003",
+   "rank": 4,
+   "score": 0.6379
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00005",
+   "rank": 4,
+   "score": 0.925
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1004,
+   "sid": "synth150_s2000_00008",
+   "rank": 3,
+   "score": 0.6992
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00008",
+   "rank": 4,
+   "score": 0.5654
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00013",
+   "rank": 4,
+   "score": 0.8281
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1001,
+   "sid": "synth150_s2000_00015",
+   "rank": 3,
+   "score": 0.7278
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00015",
+   "rank": 4,
+   "score": 0.6579
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00019",
+   "rank": 4,
+   "score": 0.8661
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1002,
+   "sid": "synth150_s2000_00032",
+   "rank": 4,
+   "score": 0.0668
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1001,
+   "sid": "synth150_s2000_00037",
+   "rank": 3,
+   "score": 0.9323
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00038",
+   "rank": 4,
+   "score": 0.8326
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1001,
+   "sid": "synth150_s2000_00041",
+   "rank": 3,
+   "score": 0.9763
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1005,
+   "sid": "synth150_s2000_00041",
+   "rank": 4,
+   "score": 0.97
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00043",
+   "rank": 4,
+   "score": 0.7425
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1006,
+   "sid": "synth150_s2000_00051",
+   "rank": 3,
+   "score": 0.8929
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00051",
+   "rank": 4,
+   "score": 0.8124
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00053",
+   "rank": 3,
+   "score": 0.9542
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00053",
+   "rank": 4,
+   "score": 0.917
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1003,
+   "sid": "synth150_s2000_00056",
+   "rank": 3,
+   "score": 0.9679
+  },
+  {
+   "fam": "synth150_s2000",
+   "z_seed": 1007,
+   "sid": "synth150_s2000_00056",
+   "rank": 4,
+   "score": 0.9664
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00009",
+   "rank": 3,
+   "score": 0.9767
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00009",
+   "rank": 4,
+   "score": 0.9465
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00013",
+   "rank": 3,
+   "score": 0.957
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00013",
+   "rank": 4,
+   "score": 0.8439
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00016",
+   "rank": 3,
+   "score": 0.8487
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00017",
+   "rank": 3,
+   "score": 0.9895
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00017",
+   "rank": 4,
+   "score": 0.9883
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00020",
+   "rank": 3,
+   "score": 0.9741
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00020",
+   "rank": 4,
+   "score": 0.9723
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00021",
+   "rank": 3,
+   "score": 0.9922
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00021",
+   "rank": 4,
+   "score": 0.9732
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00025",
+   "rank": 3,
+   "score": 0.9914
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00025",
+   "rank": 4,
+   "score": 0.9786
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00030",
+   "rank": 3,
+   "score": 0.9664
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00030",
+   "rank": 4,
+   "score": 0.9479
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00031",
+   "rank": 3,
+   "score": 0.99
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00031",
+   "rank": 4,
+   "score": 0.9722
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00034",
+   "rank": 3,
+   "score": 0.8608
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00035",
+   "rank": 4,
+   "score": 0.9152
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1003,
+   "sid": "synth150_s2005_00037",
+   "rank": 4,
+   "score": 0.8938
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1004,
+   "sid": "synth150_s2005_00041",
+   "rank": 3,
+   "score": 0.9946
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00041",
+   "rank": 4,
+   "score": 0.9939
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1006,
+   "sid": "synth150_s2005_00042",
+   "rank": 4,
+   "score": 0.9456
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00043",
+   "rank": 3,
+   "score": 0.9873
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1007,
+   "sid": "synth150_s2005_00053",
+   "rank": 3,
+   "score": 0.9433
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1002,
+   "sid": "synth150_s2005_00053",
+   "rank": 4,
+   "score": 0.9193
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00062",
+   "rank": 4,
+   "score": 0.9829
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1001,
+   "sid": "synth150_s2005_00066",
+   "rank": 4,
+   "score": 0.9323
+  },
+  {
+   "fam": "synth150_s2005",
+   "z_seed": 1005,
+   "sid": "synth150_s2005_00077",
+   "rank": 3,
+   "score": 0.9803
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00037",
+   "rank": 3,
+   "score": 0.8198
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00039",
+   "rank": 3,
+   "score": 0.934
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00044",
+   "rank": 4,
+   "score": 0.8504
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00045",
+   "rank": 4,
+   "score": 0.7571
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00048",
+   "rank": 3,
+   "score": 0.9195
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00048",
+   "rank": 4,
+   "score": 0.8831
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00058",
+   "rank": 4,
+   "score": 0.7937
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00066",
+   "rank": 3,
+   "score": 0.9781
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00066",
+   "rank": 4,
+   "score": 0.8631
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00073",
+   "rank": 4,
+   "score": 0.9588
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00074",
+   "rank": 3,
+   "score": 0.8927
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00074",
+   "rank": 4,
+   "score": 0.8781
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00086",
+   "rank": 3,
+   "score": 0.8534
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00086",
+   "rank": 4,
+   "score": 0.8017
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00089",
+   "rank": 3,
+   "score": 0.8841
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00092",
+   "rank": 3,
+   "score": 0.9324
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00092",
+   "rank": 4,
+   "score": 0.8688
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1006,
+   "sid": "synth180_s2001_00094",
+   "rank": 3,
+   "score": 0.7995
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00094",
+   "rank": 4,
+   "score": 0.6963
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00095",
+   "rank": 3,
+   "score": 0.756
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00095",
+   "rank": 4,
+   "score": 0.6621
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00103",
+   "rank": 3,
+   "score": 0.8284
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00106",
+   "rank": 3,
+   "score": 0.8197
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00106",
+   "rank": 4,
+   "score": 0.7246
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00108",
+   "rank": 3,
+   "score": 0.9067
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1005,
+   "sid": "synth180_s2001_00108",
+   "rank": 4,
+   "score": 0.8175
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1007,
+   "sid": "synth180_s2001_00109",
+   "rank": 3,
+   "score": 0.8263
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1004,
+   "sid": "synth180_s2001_00111",
+   "rank": 4,
+   "score": 0.5557
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1003,
+   "sid": "synth180_s2001_00115",
+   "rank": 3,
+   "score": 0.8919
+  },
+  {
+   "fam": "synth180_s2001",
+   "z_seed": 1002,
+   "sid": "synth180_s2001_00115",
+   "rank": 4,
+   "score": 0.8772
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1004,
+   "sid": "synth180_s2006_00000",
+   "rank": 3,
+   "score": 0.5584
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1002,
+   "sid": "synth180_s2006_00000",
+   "rank": 4,
+   "score": 0.538
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00039",
+   "rank": 3,
+   "score": 0.3583
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00039",
+   "rank": 4,
+   "score": 0.3371
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1004,
+   "sid": "synth180_s2006_00041",
+   "rank": 3,
+   "score": 0.1408
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00041",
+   "rank": 4,
+   "score": 0.1401
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00043",
+   "rank": 3,
+   "score": 0.178
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1005,
+   "sid": "synth180_s2006_00043",
+   "rank": 4,
+   "score": 0.1103
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1003,
+   "sid": "synth180_s2006_00079",
+   "rank": 3,
+   "score": 0.604
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00079",
+   "rank": 4,
+   "score": 0.5999
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00090",
+   "rank": 3,
+   "score": 0.6394
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00093",
+   "rank": 4,
+   "score": 0.2887
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1004,
+   "sid": "synth180_s2006_00097",
+   "rank": 3,
+   "score": 0.4296
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1003,
+   "sid": "synth180_s2006_00097",
+   "rank": 4,
+   "score": 0.3977
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00102",
+   "rank": 4,
+   "score": 0.2912
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00106",
+   "rank": 3,
+   "score": 0.2928
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1003,
+   "sid": "synth180_s2006_00109",
+   "rank": 3,
+   "score": 0.5298
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1001,
+   "sid": "synth180_s2006_00109",
+   "rank": 4,
+   "score": 0.4138
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00117",
+   "rank": 3,
+   "score": 0.411
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1006,
+   "sid": "synth180_s2006_00117",
+   "rank": 4,
+   "score": 0.3017
+  },
+  {
+   "fam": "synth180_s2006",
+   "z_seed": 1007,
+   "sid": "synth180_s2006_00124",
+   "rank": 3,
+   "score": 0.4242
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1002,
+   "sid": "synth210_s2002_00001",
+   "rank": 3,
+   "score": 0.9141
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00001",
+   "rank": 4,
+   "score": 0.8531
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1001,
+   "sid": "synth210_s2002_00006",
+   "rank": 3,
+   "score": 0.6622
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1006,
+   "sid": "synth210_s2002_00006",
+   "rank": 4,
+   "score": 0.6547
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1002,
+   "sid": "synth210_s2002_00008",
+   "rank": 3,
+   "score": 0.8689
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00008",
+   "rank": 4,
+   "score": 0.7715
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00010",
+   "rank": 4,
+   "score": 0.5956
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00020",
+   "rank": 3,
+   "score": 0.9167
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00029",
+   "rank": 3,
+   "score": 0.6006
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1002,
+   "sid": "synth210_s2002_00029",
+   "rank": 4,
+   "score": 0.5828
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00033",
+   "rank": 3,
+   "score": 0.8196
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1006,
+   "sid": "synth210_s2002_00033",
+   "rank": 4,
+   "score": 0.7914
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1006,
+   "sid": "synth210_s2002_00038",
+   "rank": 3,
+   "score": 0.8905
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1006,
+   "sid": "synth210_s2002_00042",
+   "rank": 3,
+   "score": 0.3012
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00042",
+   "rank": 4,
+   "score": 0.2333
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00053",
+   "rank": 4,
+   "score": 0.7011
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00054",
+   "rank": 4,
+   "score": 0.7661
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00057",
+   "rank": 3,
+   "score": 0.9163
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1004,
+   "sid": "synth210_s2002_00057",
+   "rank": 4,
+   "score": 0.9152
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1002,
+   "sid": "synth210_s2002_00062",
+   "rank": 3,
+   "score": 0.9099
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1003,
+   "sid": "synth210_s2002_00062",
+   "rank": 4,
+   "score": 0.6338
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00064",
+   "rank": 4,
+   "score": 0.7352
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1005,
+   "sid": "synth210_s2002_00070",
+   "rank": 3,
+   "score": 0.9456
+  },
+  {
+   "fam": "synth210_s2002",
+   "z_seed": 1007,
+   "sid": "synth210_s2002_00070",
+   "rank": 4,
+   "score": 0.9024
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00001",
+   "rank": 3,
+   "score": 0.98
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00001",
+   "rank": 4,
+   "score": 0.9796
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00003",
+   "rank": 3,
+   "score": 0.9483
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00003",
+   "rank": 4,
+   "score": 0.9215
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00005",
+   "rank": 4,
+   "score": 0.746
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00007",
+   "rank": 3,
+   "score": 0.9698
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00007",
+   "rank": 4,
+   "score": 0.8879
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00013",
+   "rank": 3,
+   "score": 0.9848
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00013",
+   "rank": 4,
+   "score": 0.9804
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00015",
+   "rank": 3,
+   "score": 0.9172
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00015",
+   "rank": 4,
+   "score": 0.7958
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00017",
+   "rank": 3,
+   "score": 0.9823
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1001,
+   "sid": "synth210_s2007_00017",
+   "rank": 4,
+   "score": 0.9446
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00018",
+   "rank": 3,
+   "score": 0.5905
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00024",
+   "rank": 3,
+   "score": 0.9436
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00024",
+   "rank": 4,
+   "score": 0.9285
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00027",
+   "rank": 3,
+   "score": 0.9595
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1004,
+   "sid": "synth210_s2007_00030",
+   "rank": 3,
+   "score": 0.9132
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00030",
+   "rank": 4,
+   "score": 0.8846
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1006,
+   "sid": "synth210_s2007_00038",
+   "rank": 3,
+   "score": 0.8541
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00042",
+   "rank": 3,
+   "score": 0.7566
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00042",
+   "rank": 4,
+   "score": 0.6245
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00043",
+   "rank": 4,
+   "score": 0.8998
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00048",
+   "rank": 3,
+   "score": 0.953
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1007,
+   "sid": "synth210_s2007_00048",
+   "rank": 4,
+   "score": 0.9471
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00052",
+   "rank": 3,
+   "score": 0.9117
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1003,
+   "sid": "synth210_s2007_00053",
+   "rank": 3,
+   "score": 0.9402
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1002,
+   "sid": "synth210_s2007_00053",
+   "rank": 4,
+   "score": 0.9068
+  },
+  {
+   "fam": "synth210_s2007",
+   "z_seed": 1005,
+   "sid": "synth210_s2007_00056",
+   "rank": 4,
+   "score": 0.8889
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00003",
+   "rank": 3,
+   "score": 0.9479
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00003",
+   "rank": 4,
+   "score": 0.9266
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00026",
+   "rank": 3,
+   "score": 0.8958
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00026",
+   "rank": 4,
+   "score": 0.8187
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00029",
+   "rank": 3,
+   "score": 0.8707
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00029",
+   "rank": 4,
+   "score": 0.82
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00032",
+   "rank": 3,
+   "score": 0.9227
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00035",
+   "rank": 3,
+   "score": 0.6967
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00035",
+   "rank": 4,
+   "score": 0.6049
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00048",
+   "rank": 4,
+   "score": 0.8939
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00050",
+   "rank": 3,
+   "score": 0.929
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00050",
+   "rank": 4,
+   "score": 0.9167
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00059",
+   "rank": 3,
+   "score": 0.702
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00059",
+   "rank": 4,
+   "score": 0.6569
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00066",
+   "rank": 4,
+   "score": 0.9045
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00073",
+   "rank": 4,
+   "score": 0.9175
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00075",
+   "rank": 3,
+   "score": 0.9644
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00075",
+   "rank": 4,
+   "score": 0.9201
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00084",
+   "rank": 4,
+   "score": 0.7392
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00086",
+   "rank": 3,
+   "score": 0.9739
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00086",
+   "rank": 4,
+   "score": 0.8959
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00090",
+   "rank": 3,
+   "score": 0.7122
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00092",
+   "rank": 3,
+   "score": 0.8968
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00092",
+   "rank": 4,
+   "score": 0.8129
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1007,
+   "sid": "synth240_s2003_00093",
+   "rank": 3,
+   "score": 0.7271
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00093",
+   "rank": 4,
+   "score": 0.7206
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1004,
+   "sid": "synth240_s2003_00094",
+   "rank": 3,
+   "score": 0.8971
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1002,
+   "sid": "synth240_s2003_00094",
+   "rank": 4,
+   "score": 0.8831
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1005,
+   "sid": "synth240_s2003_00096",
+   "rank": 3,
+   "score": 0.8769
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1003,
+   "sid": "synth240_s2003_00097",
+   "rank": 3,
+   "score": 0.9109
+  },
+  {
+   "fam": "synth240_s2003",
+   "z_seed": 1006,
+   "sid": "synth240_s2003_00097",
+   "rank": 4,
+   "score": 0.9075
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00028",
+   "rank": 4,
+   "score": 0.6201
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00032",
+   "rank": 3,
+   "score": 0.6914
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1002,
+   "sid": "synth270_s2004_00032",
+   "rank": 4,
+   "score": 0.4189
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00033",
+   "rank": 3,
+   "score": 0.6015
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00044",
+   "rank": 3,
+   "score": 0.5576
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00046",
+   "rank": 3,
+   "score": 0.4916
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00051",
+   "rank": 4,
+   "score": 0.3591
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1001,
+   "sid": "synth270_s2004_00068",
+   "rank": 3,
+   "score": 0.4993
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00068",
+   "rank": 4,
+   "score": 0.4881
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00069",
+   "rank": 3,
+   "score": 0.7955
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00076",
+   "rank": 3,
+   "score": 0.6514
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00076",
+   "rank": 4,
+   "score": 0.6073
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00089",
+   "rank": 4,
+   "score": 0.6186
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00101",
+   "rank": 3,
+   "score": 0.4033
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00102",
+   "rank": 4,
+   "score": 0.5914
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1003,
+   "sid": "synth270_s2004_00105",
+   "rank": 3,
+   "score": 0.4924
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1002,
+   "sid": "synth270_s2004_00105",
+   "rank": 4,
+   "score": 0.3747
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00109",
+   "rank": 3,
+   "score": 0.6384
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1006,
+   "sid": "synth270_s2004_00109",
+   "rank": 4,
+   "score": 0.6136
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1001,
+   "sid": "synth270_s2004_00118",
+   "rank": 4,
+   "score": 0.6513
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1002,
+   "sid": "synth270_s2004_00119",
+   "rank": 3,
+   "score": 0.5226
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1003,
+   "sid": "synth270_s2004_00119",
+   "rank": 4,
+   "score": 0.5111
+  },
+  {
+   "fam": "synth270_s2004",
+   "z_seed": 1007,
+   "sid": "synth270_s2004_00121",
+   "rank": 4,
+   "score": 0.577
+  }
+ ]
+}

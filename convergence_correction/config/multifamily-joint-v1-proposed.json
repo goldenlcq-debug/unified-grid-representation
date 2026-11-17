@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "training": {
+    "total_episodes": 10416,
+    "horizon": 150,
+    "batch_size": 16,
+    "replay_capacity": 2048,
+    "warmup": 64,
+    "epsilon_decay": 10000,
+    "evaluation_interval": 5208,
+    "checkpoint_interval": 500,
+    "checkpoint_keep": 3,
+    "width": 128,
+    "layers": 2,
+    "gamma": 0.99,
+    "learning_rate": 0.0003,
+    "target_interval": 100,
+    "node_budget": 100000,
+    "edge_budget": 200000,
+    "action_budget": 100000,
+    "device": "cuda",
+    "seed": 0
+  }
+}
